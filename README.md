@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/damiendoevi" target="blank"><img src="https://img.shields.io/twitter/follow/damiendoevi?logo=twitter&style=for-the-badge" alt="damiendoevi" /></a> </p>
 
-- 🔭 I worked on [ATB website](https://atbong.org/) and [CUEP Library](http://fn415bbfxu.preview.infomaniak.website/)
+- 🔭 I worked on [ATB website](https://atbong.org/) and [CUEP Library](https://biblio.cuep.enseignementsuperieur.bj/)
 
 - 🌱 I’m currently learning **Django**
 
