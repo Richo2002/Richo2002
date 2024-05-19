@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/damiendoevi" target="blank"><img src="https://img.shields.io/twitter/follow/damiendoevi?logo=twitter&style=for-the-badge" alt="damiendoevi" /></a> </p>
 
-- 🔭 I worked on [ATB website](https://atbong.org/) and [CUEP Library](https://biblio.cuep.enseignementsuperieur.bj/)
+- 🔭 I worked on [ATB website](https://atbong.org/) & [CUEP Library](https://biblio.cuep.enseignementsuperieur.bj/) & [CTF Platform](https://ctf.ironsecur.com/) & [Training Platform](https://training.ironsecur.com/)
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Bootstrap, Laravel, Vue.js, Inertia.js, Livewire, Alpine.js**
+- 💬 Ask me about **Bootstrap, Laravel, Vue.js, Inertia.js, Livewire, Alpine.js, Django & Django Rest Framework**
 
 - 📫 How to reach me **damiendoevi@gmail.com**
 
